@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+<<<<<<< HEAD
+    "nodemon": "^2.0.4"
+=======
+    "nodemon": "^2.0.2"
+>>>>>>> fa593150207a9c6f2d8d2cb2c25c0e0ba7a90eed
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Lambda School",
+  "license": "ISC"
+}
